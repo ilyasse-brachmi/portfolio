@@ -1,5 +1,5 @@
 <?php
-  $receiving_email_address = 'ossama.ismaili@ieee.org';
+  $receiving_email_address = 'ilyassebra@gmail.com';
 
   if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {
     include( $php_email_form );
